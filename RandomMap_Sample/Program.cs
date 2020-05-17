@@ -76,6 +76,9 @@ namespace RandomMap_Sample
 
         private int mnodeChance, mnodeConChance, mnodePathChance, mdenominator;
 
+
+
+
         private List<MapPattrnInfo>[,] mmapPattrnInfo;
 
         private List<long>[] mnodeLinkInfo;
