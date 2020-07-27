@@ -1665,7 +1665,7 @@ namespace RandomMap_Sample
         static void Main(string[] args)
         {
             //  "mapIndex" and "SetMapPattenInfo()" are incomplete parts. Please note that my GitHub contains information on drawing pictures using Fourier transform as a solution to supplement this part. 
-            NodeManager nodeManager = new NodeManager(50, 50, 75, 45, 33, 100, 2);
+            NodeManager nodeManager = new NodeManager(50, 50, 75, 35, 33, 100, 0);
             nodeManager.DrawMap();
         }
     }
